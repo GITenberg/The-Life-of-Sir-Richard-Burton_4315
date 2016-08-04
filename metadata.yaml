@@ -1,0 +1,26 @@
+_repo: The-Life-of-Sir-Richard-Burton_4315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Thomas
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1436'
+    url: http://www.gutenberg.org/2009/agents/1436
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Scholars -- Great Britain -- Biography'
+- !lcsh 'Explorers -- Great Britain -- Biography'
+- !lcsh 'Burton, Richard Francis, Sir, 1821-1890'
+- GITenberg
+title: The Life of Sir Richard Burton
+url: http://www.gutenberg.org/ebooks/4315
